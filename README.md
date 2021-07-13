@@ -19,4 +19,5 @@ Spark Master: http://localhost:8181
 
 
 если всё ок, то можно зайти в Admin/Connections в админке airflow, и настроить коннект к спарку и запустить DAG spark-test (сначала активировать его, а потом тригернуть)
+
 ![airflow_spark_connection](https://user-images.githubusercontent.com/13750064/125505227-33a8eb21-1877-4ead-86dc-4f30a694d6bb.png)
