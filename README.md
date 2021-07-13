@@ -3,7 +3,7 @@
 1) установить docker/docker-compose в систему
 2) будучи в папке docker/docker-airflow в консоли прописать "docker build --rm -t docker-airflow-spark:latest ." , начнётся сборка билда самого airflow
 3) будучи в папке docker прописать в консоли "docker-compose up" ; начнётся сборка контейнера 
-4) 
+
 з.ы. во время запуска у меня частенько падал сервер постгреса, помогает вручную его перезапустить в самом docker desktop
 
 Пути:
